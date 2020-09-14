@@ -1,10 +1,10 @@
 # PESSOA API
 
-1 - clone o projeto usando o comando "git https://github.com/rafaelgibam/PESSOA_API.git"
-2 - ABRA A SUA IDEIA E IMPORTE O PROJETO PARA SUA WORKSPACE
-3 - CONFIGURE SUA IDE PARA APONTAR PARA JDK8
-4 - EXECUTE O COMANDO MVN CLEAN & INSTALL
-5 - EXECUTE O PROJETO E USE!
+- clone o projeto usando o comando "git https://github.com/rafaelgibam/PESSOA_API.git"
+- ABRA A SUA IDEIA E IMPORTE O PROJETO PARA SUA WORKSPACE
+- CONFIGURE SUA IDE PARA APONTAR PARA JDK8
+- EXECUTE O COMANDO MVN CLEAN & INSTALL
+- EXECUTE O PROJETO E USE!
 
 
 - LINK DO PROJETO EM PRODUÇÃO -> http://apipessoa.herokuapp.com/api/v1/
