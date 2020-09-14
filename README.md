@@ -9,6 +9,9 @@
 
 - LINK DO PROJETO EM PRODUÇÃO -> http://apipessoa.herokuapp.com/api/v1/
 
+- DOCUMENTAÇÃO WEB -> https://apipessoa.herokuapp.com/api/v1/swagger-ui.html
+- DOCUMENTAÇÃO POSTMAN -> http://bit.ly/postmandoc
+
 - PARA ACESSAR OS RECURSOS DA API VOCÊ PRECISA ESTÁ AUTENTICADO COM UM TOKEN PARA OBTER ESSE TOKEN VOCÊ PRECISAR FAZER UMA REQUISÃO NO ENDPOINT
   /auth/login PASSANDO NO CORPO DA REQUISÃO OS VALORES {"username": "admin", "password": "admin" }
 
