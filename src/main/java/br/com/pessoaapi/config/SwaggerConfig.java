@@ -18,7 +18,7 @@ public class SwaggerConfig implements WebMvcConfigurer {
     public Docket api() { 
         return new Docket(DocumentationType.SWAGGER_2)  
           .select()                                  
-          .apis(RequestHandlerSelectors.any())              
+          .apis(RequestHandlerSelectors.basePackage("br.com.pessoaapi.controller"))              
           .paths(PathSelectors.any())                          
           .build();                                           
     }
