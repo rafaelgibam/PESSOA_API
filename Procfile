@@ -1,0 +1,1 @@
+web: java -jar target/PESSOA_API-0.0.1-SNAPSHOT.jar
